@@ -1,0 +1,5 @@
+outs:
+- md5: 5c6d1410d2b2b3f67d1cdfdd9787b41a.dir
+  size: 2018
+  nfiles: 1
+  path: predictionDiabetesModel
